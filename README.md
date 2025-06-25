@@ -78,3 +78,12 @@ Contributions are welcome! Please follow these guidelines:
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request with a clear description of changes# dbt_snowflake_project
+
+![Screenshot 2025-06-25 032754](https://github.com/user-attachments/assets/b1b9faf1-1a71-4b3b-b3d6-dc61d9fffe61)
+
+![Screenshot 2025-06-25 032656](https://github.com/user-attachments/assets/8275cf1e-9c96-477f-ba4a-7fda1bedd5d0)
+
+![Screenshot 2025-06-25 050008](https://github.com/user-attachments/assets/27f47a62-9c56-4d3a-aa2f-272ae359100a)
+
+
+
