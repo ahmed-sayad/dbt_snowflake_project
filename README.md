@@ -78,5 +78,3 @@ Contributions are welcome! Please follow these guidelines:
 1. Fork the repository
 2. Create a feature branch
 3. Submit a pull request with a clear description of changes# dbt_snowflake_project
-# dbt_snowflake_project
-# dbt_snowflake_project
